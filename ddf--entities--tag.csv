@@ -12,4 +12,8 @@ bioek,Bioekonomi,spec_sek
 energi,Energi,
 natur,Naturresurser,ovrig_tag
 handel,Handel,
+farligt,Farligt avfall,natur
+ej_farligt,Icke-farligt avfall,natur
+spec_sek,Särskilda sektorer,ovrig_tag
 kategori,Kategori,
+ovrig_tag,Övriga variabler,
